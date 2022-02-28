@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of vnity tending, generally to a peace, especially to that betweene Presbyterian Independent opinion. Written July 12. 1648</title>
+            <author>S. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96087</idno>
+            <idno type="STC">Wing W109</idno>
+            <idno type="STC">Thomason E437_17</idno>
+            <idno type="STC">ESTC R204709</idno>
+            <idno type="EEBO-CITATION">99863722</idno>
+            <idno type="PROQUEST">99863722</idno>
+            <idno type="VID">115935</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115935)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of vnity tending, generally to a peace, especially to that betweene Presbyterian Independent opinion. Written July 12. 1648</title>
+                  <author>S. W.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed anno. Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: S.W.</note>
+                  <note>The words "Presbyterian" and "Independent" are bracketed together on title page.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  Great Britain --  Early works to 1800.</term>
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115935:1" rendition="simple:additions"/>
+            <p>A LETER OF VNITY Tending, generally to a Peace, eſpecially to that betweene
+<list>
+                  <item>Presbyterian</item>
+                  <item>Independent</item>
+               </list>
+Opinion.</p>
+            <p>Written <hi>July</hi> 12. 1648</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno. Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115935:2"/>
+            <pb n="1" facs="tcp:115935:2"/>
+            <opener>
+               <salute>SJR,</salute>
+            </opener>
+            <p>I Received your Letter, welcome to me, though empty of any newes, which in that you Father on the turbu<g ref="char:EOLhyphen"/>lency of theſe times, give me leave, Sir to tell you it is your fault in part, that the times prove ſo, when as it is within the power of your knowne wiſdome and a<g ref="char:EOLhyphen"/>bilityes to have provided againſt the hapning of, or to compoſe the troubleſomneſſe of theſe times now they are befallen us. A ſingle perſon, amongſt may more, can act but his part of worke, but a man of eminency and worth can exced his fellow workmen in the doing it. As it is the ableſt taske of an honeſt and wiſe Citi<g ref="char:EOLhyphen"/>zen, to keep the City at Vnity within it ſelfe, ſo it is of each Member in a body politique to preſerve that Bo<g ref="char:EOLhyphen"/>dy unanimous and entire. The unhappy conteſt be<g ref="char:EOLhyphen"/>tween Yee in your Houſe, befalling yee upon your vi<g ref="char:EOLhyphen"/>ctory, have again divided it into <hi>Presbyterian, Jndepen<g ref="char:EOLhyphen"/>dent,</hi> two mature and as yet unſetled Tenents. And it is much, that two opinions, betwixt which there is no materiall difference, ſhould cauſe a difference, yea ſuch an one, as if purſued, muſt prove deſtructive to your ſelves and freinds. To prove that they are not material<g ref="char:EOLhyphen"/>ly differing, is no hard taske, the Perſons partaking with, and maintaining them may differ, each partie ſtri<g ref="char:EOLhyphen"/>ving
+<pb n="2" facs="tcp:115935:3"/>to lead up and multiply their parties following them. To ſhew that there is no conſiderable difference betweene the two Tenents. Or that they are both un<g ref="char:EOLhyphen"/>certaine, unſetled yet, you may pleaſe to obſerve the ſound, yet reſerved, judgement of them both: Firſt, The <hi>Presbyterian</hi> and the Covenanters maintaining that Government, no man will think, that their Covenant doth ſo preſently oblige, as that the <hi>Presbyterian</hi> Gover<g ref="char:EOLhyphen"/>ment ſhould immediately and forthwith commence or begin aſſoone as the Covenant is taken, but it is to be preſumed, then, when the <hi>Warre</hi> is ended, when a firm and well-grounded <hi>Peace</hi> is ſetled: All Government whatſoever is incompatible with a Civill <hi>Warre,</hi> which deſtroyes and confounds all Lawes and Order: So the <hi>Independent.</hi> who contends for Liberty, &amp;c. is not, or may not be for ought We know, ſimply and alwaies a<g ref="char:EOLhyphen"/>gainſt all Government, peradventure only for a time, untill he fees a quiet and more calme time, wherein the <hi>Presbyterian,</hi> or any other wholſome, or good forme of Government may be without interuption and firmely ſetled. Then his opinion ſo ſtrictly for<g ref="char:punc">▪</g> 
+               <hi>Jndependency</hi> may alter, when oppurtunity ſhall ſerve, without im<g ref="char:EOLhyphen"/>peachment to his judgement, or inconſtancy in his opi<g ref="char:EOLhyphen"/>nion. Neither is <hi>Jndependency</hi> an abdication alwaies of all Government, nor poſitively, any ſect at all: it may ſeem rather a privation of all Sects in Government, and how long? until a compoſure &amp; ſetlement of theſe pre<g ref="char:EOLhyphen"/>ſent differences for a peace is not ſetled as yet rather in<g ref="char:EOLhyphen"/>ſtead of it, an eminent &amp; dreadfull face of a New War, this preſent Diſcord ocaſioning the ſame. The privative particle [in] in the word it ſelfe <hi>[Jndependant]</hi> implies as much as that he holds off, and declines all bonds of
+<pb n="3" facs="tcp:115935:3"/>Government, but no man knowes, how long: His ma<g ref="char:EOLhyphen"/>naging his intended courſe in the maintaining this his Tenent, may reſemble a Traveller's purpoſe bound for his journey to a Country a farre off, who deeming the next way, to his journey's end to be unſafe and dange<g ref="char:EOLhyphen"/>rous, goes therefore out of the next way, ſtayes ſome<g ref="char:EOLhyphen"/>times by the way, goes ſometimes backe, allwayes yet providing and caſting with himſelfe what may make for, what againſt his reſt and quiet, when he comes to his journeyes end, which, notwithſtanding theſe heſi<g ref="char:EOLhyphen"/>tances, he intends, and hath it alwayes in his eye, as ſure<g ref="char:EOLhyphen"/>ly, as if he had haſtned thereunto: So it may fare with the <hi>Jndependent</hi> for ought can be diſcerned to the con<g ref="char:EOLhyphen"/>trarie. He may aime at this or that particular forme of Government to be hereafter ſetled; and in this his con<g ref="char:EOLhyphen"/>tending for Libertie, may deſire peradventure to ſhake of this preſent Yoke of Government for a time, which hard and heavilie preeſſeth him, thinking that without ſhaking off ſuch a yoke there can be no firm or ſetled Government at all. Not that he doth totally, or finally decline or deteſt all Government, either the <hi>Presbyteri<g ref="char:EOLhyphen"/>an,</hi> or any other forme, but that he expects a more free and fit ſeaſon, for eſtabliſhing that which he intends, and aimes at, namely upon the eſtabliſhment of a firme and laſting peace:</p>
+            <p>For there is not, therefore a certaine or ſetled Peace, becauſe (there are no viſible Forces appearing on the one ſide, or becauſe the King doth in his paſſionate, and mournefull words, (expreſſed of late in ſeverall his De<g ref="char:EOLhyphen"/>clarations) tell the People, <hi>How he longs for peace, lamen<g ref="char:EOLhyphen"/>ting the want of it, how ſenſible he is of, how deſirous to ſhunne the effuſion of more blood;</hi> Neither is the Army
+<pb n="2" facs="tcp:115935:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:115935:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:115935:5"/>therefore to be disbanded upon this Name or deſire of Peace: the warre may break out again eſpecially when as the conquering partie, the Parliament whoſe Army it is, and by whole ayd they have gayned the power, is ſo much inveighed againſt, oppoſed, and by calumnia<g ref="char:EOLhyphen"/>ting tongues, traduced for the abuſing their power to oppreſſion, injuſtice, and unneceſſary protracting this Warre, Neither can the Parliament as yet, act in their full ſtrength to the ſettlement of Peace, They have e<g ref="char:EOLhyphen"/>nough to do to maintain their owne Power againſt a reſtleſſe Enemy, who ſeekes all opportunities of ad<g ref="char:EOLhyphen"/>vantages of prevailing againſt them, So that, howbeit the end of each of their deſires (the King's the Parlia<g ref="char:EOLhyphen"/>ment's) may be Peace, the wayes of attaining it, are differing, and ſo repugnant each to other, as we cannot tearme this preſent ceſſation from a Warre, a ſafe or laſting peace.</p>
+            <p>On the other ſide, the Presbyterian for his Covenant ſake drives at a particular forme of Government, ſub<g ref="char:EOLhyphen"/>ject yet to interpretation and dispute (to<note n="*" place="margin">See the Articles in the Cove<g ref="char:EOLhyphen"/>nant for the Presbi<g ref="char:EOLhyphen"/>ter Go<g ref="char:EOLhyphen"/>vernment.</note> be regulated according to God's Word to the beſt reformed Chur<g ref="char:EOLhyphen"/>ches or the like) wherefore it cannot have any poſitive or firm ſettlement in mens conſciences, untill more pre<g ref="char:EOLhyphen"/>ciſely defined what it is, and to be regulated by the like power, which did inſtitute it. Now that theſe two O<g ref="char:EOLhyphen"/>pinions no more differing or croſſing within themſelves then a <hi>raſa tabula</hi> doth differ from the Character, which may now be printed in that Table, and anon blotted out againe, ſhould breake out into virulency and oppo<g ref="char:EOLhyphen"/>ſition each againſt other, artificially and handſomely hatch'd by a third and malignant party who have bin convicted, and cenſured for their malignancy and there<g ref="char:EOLhyphen"/>by
+<pb n="5" facs="tcp:115935:5"/>by a Peace hath ſeemed to be well nigh ſetled, that that Party ſhould, by your Diviſion, now prevaile and be<g ref="char:EOLhyphen"/>come Judges of yee, and of your Friends, the executi<g ref="char:EOLhyphen"/>oners of their owne feirce malice; what a miſery and confuſion muſt befall us all, after an expecting our ſe<g ref="char:EOLhyphen"/>curity through your accord, and hoping through your ſobriety, and temper (next unto God's bleſſing) to have enjoyed an un-interrupted Peace? Not that the ſucceſſe and victory obtained by your freinds aſſiſtance ſhould enflame ye into diſcord about tearms meerly notionall, at leaſt not univerſally received and approved, becauſe controverted as yet, and ſtrongly<note n="*" place="margin">By the Vniverſity of Oxford at a Con<g ref="char:EOLhyphen"/>vocation held there Iune 1. 1647.</note> objected againſt by Others of a contrary Diet to both the <hi>Presbyterian</hi> and <hi>Jndependent,</hi> Tearmes alſo ſcarce underſtood, not heard of by the moſt part of the People; who rather then they will undergoe the charge and hardſhip of a continued or ſecond Warre, about opinions unknowne, about Words unheard of, except in the worſt ſence of <hi>Facti<g ref="char:EOLhyphen"/>ous, Schiſmaticall,</hi> rending from the ancient and received forme of Government, will chooſe rather to ſubmit to the mercy of a former or latter Enemy, and to be enſla<g ref="char:EOLhyphen"/>ved by enduring an Iron yoke, then to be conſumed by a laſting Warre.</p>
+            <p>If concerning theſe new, unheard of Tenents (which may be good and profitabl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when reteyned, yet diſtur<g ref="char:EOLhyphen"/>bing by reaſon of their Novity) Ye ſhall embroile your ſelves, your Parliament and Army in a ſecond Warre, haying ſo victoriouſly ſped by your mutuall aſſiſting one another in the firſt, and conſequently looſe what ye have gained, ye cannot but foreſee the event. The Quarrell ſeemes to be tripartite, between the <hi>Presbyte<g ref="char:EOLhyphen"/>rian, Jndependent,</hi> and the <hi>Kings party:</hi> you wilnot find it
+<pb n="6" facs="tcp:115935:6"/>ſo, but two Parties to joyn againſt a third, although be<g ref="char:EOLhyphen"/>ing fienely carried, it may otherwiſe outwardly appear. And thoſe two, which in their Bodies are moſt contigu<g ref="char:EOLhyphen"/>ous each to other, will ſooner unite in their accord to the ſubduing of the third, then having gained the power by degrees extirpate the other alſo, and ſet up what they pleaſe themſelves. So, having prevailed through your dividings will by the hard chance of your example, bet<g ref="char:EOLhyphen"/>ter manage their Victory to keep it, then Ye did, when Ye prevailed, which We, the ſtanders by, are moſt ſenſible of, who ſhall be ſcorned and trampled on in your ſufferings occaſioned by your contention. The di<g ref="char:EOLhyphen"/>viſion was at firſt betwixt the King's Party, and the Par<g ref="char:EOLhyphen"/>liament, how occaſioned, how proſecuted, moſt men know, together what hath bin the progreſſe, what the ſucceſſe. To breviate it in one word, (ſetting aſide all emergent and collaterall Diſputings and Debates, all Changes, Chances and Innovations, which have fallen out ſince the beginning of this VVarre, and are no pro<g ref="char:EOLhyphen"/>per effects thereof) The King having ſuffered much wrong to be done by his ſubordinate Miniſters of Ju<g ref="char:EOLhyphen"/>ſtice, to his Free-born Subjects (which was not for 1.2. or 3. years onlie done but for many, and untill a Parlia<g ref="char:EOLhyphen"/>ment was called) and no power in being to emulate and match the Kings, ſave the Court of Parliament of Lord and Commons aſſembled for vindicating ſuch wrongs, as, for redreſſe of greivances in the Common-wealth,<note n="*" place="margin">See the Statute 36. Edw. 3. cap. 10.</note> the proper end of inſtituting and ordaining a Parl. at the firſt. Thoſe Miniſters of Juſtice were reſcued by Armes and a ſtrong hand from the hand of Juſtice. To which by the way, the Kings freinds recriminatorily, Object. <hi>That the Parliament hath done the like, and that
+<pb n="7" facs="tcp:115935:6"/>therefore each Power (the Kings and the Parliaments) are guilty of iniuſtice of Oppreſſion</hi> &amp;c. So the Parliament is ingaged in a Warre, as ye are now enforced to ſecure and maintaine themſelves, their freinds, ſucceeding Par<g ref="char:EOLhyphen"/>liaments, and the Lawes the Sinews of all peace, and in that they have as yet prevailed, wreſtling with many difficulties and finding yet reluctancy, much repining and envy at their proceedings, they impriſon, impoſe an fine their Adverſaries, yea they lay Contributions and heavy Taxes on their Freinds, amongſt other the Sub<g ref="char:EOLhyphen"/>jects of this Kingdome, untill their intended work for a ſafe and laſting Peace be finiſhed, Nevertheleſſe it is not to be thought that they offer this, <hi>ſimpliciter per ſe,</hi> and with a purpoſe to continue in ſo doing, but <hi>per ac<g ref="char:EOLhyphen"/>cidens,</hi> being thereunto neceſſitated, for the mainte<g ref="char:EOLhyphen"/>nance of their power, for defence of themſelves and their Adherents. Hence was die firſt occaſion, the iſſue of theſe ſix yeers War, and will be the fuell of a New fire, kindling through your diſcords, If not timely prevented. If the Parliament upon their Victory, ſhall ſubdivide a<g ref="char:EOLhyphen"/>gain, rending into new Opinions, and they ſo earneſtly maintained by each others Partiſans, as that betwixt the K. &amp; the Parl. it cannot be, but that the more weake and vanquiſhed Party of thoſe two (the <hi>Presbyterian</hi> and <hi>In<g ref="char:EOLhyphen"/>dependent</hi>) would rather adhere and apply themſelves to their firſt Adverſary, to joyn with him for their aſſiſtance then to be overcom by their laſt in this new ſubdiviſion. If you pleaſe to forecaſt what may probably be the E<g ref="char:EOLhyphen"/>vent, how neerly ye are linked in a mutual botherhood with another Nation, what hath bin the end of your mutuall League, the preſervation and maintenance of the Peace of both Kingdoms, conſequently of the third.
+<pb n="8" facs="tcp:115935:7"/>For this rent reſts not with us alone <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Engliſh Na<g ref="char:EOLhyphen"/>tion, it concernes our united Freinds, who have had an hand in ſetling the Presbyterian Government, not that they contend happily to have it immediatly to begin be<g ref="char:EOLhyphen"/>fore the Warre is ended, and in a rigid unalterable way to inure, or to endure for ever. Another Parliament may alter and abrogate it, as this Parliament hath, the Epiſcopall, their Articles, Manifeſtoes, and Declarati<g ref="char:EOLhyphen"/>ons do evidence no ſuch conceipt of power or primacy over us, or our Parliaments, as to make any Government of their deviſing perpetuall amongſt us, no more then any of our deviſing, perpetuall as unto them (We are governed by diſtinct and different Lawes from them, Neither is the Union betwixt Us and Them, any thing the leſſe, becauſe of our ſeverall Formes of Governe<g ref="char:EOLhyphen"/>ment in Church and Common-wealth) but during the time of theſe combuſtions, and They in part foreſeeing the eminency of our troubles, to joyn with, and aſſiſt us in the removing of them: Now to forſake Them, or the Leagve entred into by Us and Them [one Article wher<g ref="char:punc">▪</g> of is the maintenance of the <hi>Presbyterian</hi> or ſuch a like forme of Government, yet with an expreſſe limitation, how: with a tacite ſenſe, when, where to bid battaile, both to them, and to your ſolemne Vow. Vnleſſe yee ſhall be evinced by ſufficient Arguments to the contra<g ref="char:EOLhyphen"/>ry; as where ſtrength of Reaſon, inevitable neceſſity, your endeavours for the maintenance of a firme and well-grounded Peace ſtill encountred by a Malignant and adverſe Party, who can yet inſinuate [their deſire of, and affections unto ſuch a Peace) to be the cauſe of your deſerting it, For ſuch reſpects and intereſts may in any impartiall and un-byaſſed Judgement, diſpence
+<pb n="9" facs="tcp:115935:7"/>with and make voide your tie, or Covenant, ſubject un<g ref="char:EOLhyphen"/>to greater and more obliging Intereſts, even in the co<g ref="char:EOLhyphen"/>venanters eye, unleſſe they be ſeaſoned with much pre<g ref="char:EOLhyphen"/>judice.</p>
+            <p>Withall conſider, Sir the proweſſe, valour and ſuc<g ref="char:EOLhyphen"/>ceſſe of your Army, the faithfullneſſe of your General, how victoriouſly he hath ſped in his deſignes and enter<g ref="char:EOLhyphen"/>priſes of reducing the ſtrong holds and fortreſſes held in oppoſition unto ye, conſider withall his Armys ſtrength and power, in caſe they become your Enemies, who have hitherto bin your freinds, And to have it quarrell with ye, or ye with it, and the City of London the place of your ſecurity, the Arſenall and Bulwarke of your ſafety, well rampierd with the prayers, affections, and and hearty ſupplications unto Almighty God, of the a<g ref="char:EOLhyphen"/>bleſt Citizens for your proſperity, but now divided in it ſelf, as VVe your freinds, ignorant how to demean our ſelves, when we ſee how many of your adherents wave<g ref="char:EOLhyphen"/>ring now, and not fully or conſtantly reſolved to con<g ref="char:EOLhyphen"/>tinue partakers with yee, ſtanding neutrall ready rather upon your diſſentings to betake themſelves to the party adverſe to yours, finding in them conſent and unity where we ſee alſo what a confuſion muſt attend the progreſſe of a new VVarre, the dangers, jealouſies, and uncertainties which moſt men will apprehend, or muſt be Subiect to, what a Revolution there will be of all things into a new diſtraction, for howbeit the Warre ſeem neer ended betwixt the King's Party and the Par<g ref="char:EOLhyphen"/>liament's, that being cenſured and puniſhed for their de<g ref="char:EOLhyphen"/>linquency in caſe they ſhould prevaile, which cannot be without your Dividing (for all the conſultation, pri<g ref="char:EOLhyphen"/>vie and cloſe Actings and contriving are about, and
+<pb n="10" facs="tcp:115935:8"/>how to help the King to his former power, that thence his party may recover their ſtrength again] with what revenge they ſhall execute their malice on your freinds, under the Notion and Cenſure of being Rebells, and having gained the power, make good, the Cenſure by the Sword.</p>
+            <p>In the doubtfull event of the Victory (as which ſide ſhall prevaile, which ſhall be overcome) your Valiant Cheiftain ſhalbe, or ye will ſuſpect him ſo, Courted by that Power which he hath vanquiſhed to be over<g ref="char:EOLhyphen"/>come himſelf, and what the event? He which with five other more Lords and Gentlemen adherents to the Par<g ref="char:EOLhyphen"/>liament hath bin by a clancular and privy Oath taken at Oxford [about four yeares ſince] by the King's Party abiding, and repairing thither, ſworne in the fwearers Conſcience to be a Traytor, Now the ſame Party doe Court and ſmile on him, whither to own him as their freind, or to uſe him as an inſtrument of their hopes, aſ<g ref="char:EOLhyphen"/>ſuring and ſetting before him his Majeſties grace and pardon for what is paſt, And leaving it to the doutbful<g ref="char:EOLhyphen"/>neſſe of that Queſtion, Whither it may be better for him to perſiſt in his Active and Conſtant way for pro<g ref="char:EOLhyphen"/>curing this Kingdoms Peace, ſo to runne the hazard of being yet overcome, before he hath compleated it, or to ſtand to his Maieſties pardon, in caſe he ſhall revolt and aſſiſt the King, The Reſolution of which Queſtion de<g ref="char:EOLhyphen"/>pends upon the various acceptions of his Judges in caſe of his being overcome, for whatſoever the King's temporarie and perſonall mercie may be in granting pardon to your Generall, the Parties who have already adiudged him a Traitor, can by a ſtronger influence on the King's affections take off the not working of ſuch
+<pb n="11" facs="tcp:115935:8"/>pardon from any blemiſh to be caſt upon his Majeſty with that politique and applauded principle, <hi>Amo pro<g ref="char:EOLhyphen"/>ditionem, odi proditorem.</hi> Neither is a Pardon in theſe hazardous and uncertain times ſo ſure and ful a reprive or ſafeguard to a man, as his owne Innocency is. A pardon is ſubject to reſervations in the pardoner, to diſ<g ref="char:EOLhyphen"/>putes, as whither the Pardon be lightly purſued &amp; duly pleaded It hath in it many perquiſites and circumſtan<g ref="char:EOLhyphen"/>ces to make it compleat, not to be hereafter queſtioned; the Law hath many wreſtings and niceties in it, eſpeci<g ref="char:EOLhyphen"/>ally in the practice and manner of pardoning, to ren<g ref="char:EOLhyphen"/>der the true ſenſe, intricate, wherefore no certainty or laſting confidence in a Pardon had, And if your Gene<g ref="char:EOLhyphen"/>rall hath out of an honeſt, noble, and cleare integrity, God and his owne Conſcience bearing him witneſs, and no man ſuſpects the contrary, taken up Armes to ſerve his Countrey, for the maintenance of their Juſt Liber<g ref="char:EOLhyphen"/>ties, a ſacred Text hath poynted out the way which he is to take, by the compariſon it makes between an hu<g ref="char:EOLhyphen"/>mane and Almighty Power, <hi>it is better to truſt in God,</hi> who can defend Him in his innocency, <hi>then to put any confidence in Princes,</hi> who can pardon Crimes. Theſe things need not to be ſet downe before your veiw. Yee are circumſpect and wiſe to foreſee &amp; avoid your dan<g ref="char:EOLhyphen"/>gers if the earneſt thirſt after making good your new o<g ref="char:EOLhyphen"/>pinions, miſlead ye not into a continued diſcord. Laſt<g ref="char:EOLhyphen"/>ly, compare the power of your Generall and his Ar<g ref="char:EOLhyphen"/>my ready now to invade the City, with the condition of your friend in it divided now within it ſelfe, and having of ſtrangers many Incendiaries and cloſe Pio<g ref="char:EOLhyphen"/>neers in it to undermine your ſtrength, divers of the Citizens along time your enemies, eſpecially thoſe of
+<pb n="12" facs="tcp:115935:9"/>the more looſe and meaner ſort, thirſting for, and ready to be in a combuſtion to prey on the wealthier (your Freinds) It is yet I verily preſume within the power of your wiſdomes (God ſeconding your juſt endeavours) to diſpell theſe eminent cloudes by complying with the Army, by reconciling thoſe two, between whom there ſeemes to be, but is no reall difference, unles the ſtrong malice, and exquiſite ſubtilty of a third make it ſo, or the pride of heart betweene the rigid <hi>Presbyterian,</hi> and ſtrict <hi>Jndependent,</hi> both violent and headſtrong in their wayes. The <hi>Author of Peace,</hi> and Giver of <hi>Grace</hi> to the Humble, direct and proſper Yee in Your wayes to both, So praieth.</p>
+            <trailer>For Sir <hi>I. S.</hi> Knight, one of the Members of the Houſe of Commons.</trailer>
+            <closer>
+               <signed>Your very affectionate and humble Servant. <hi>S W.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:115935:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
